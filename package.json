@@ -1,0 +1,17 @@
+{
+  "name": "todo-app-for-unit-testing",
+  "version": "1.0.0",
+  "description": "Minimal todo app example.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.23.3",
+    "@types/jest": "^29.5.11",
+    "jest": "^29.7.0"
+  }
+}
